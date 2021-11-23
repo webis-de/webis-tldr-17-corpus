@@ -1,5 +1,5 @@
 # webis-tldr-17-corpus
-This repository contains code for constructing TLDR corpus from Reddit Corpus as described in [TL;DR: Mining Reddit to Learn Automatic Summarization, EMNLP 2017 - New Frontiers in Summarization workshop](https://aclanthology.info/papers/W17-4508/w17-4508)
+This repository contains code for constructing TLDR corpus from Reddit Corpus as described in [TL;DR: Mining Reddit to Learn Automatic Summarization, EMNLP 2017 - New Frontiers in Summarization workshop](https://aclanthology.org/W17-4508)
 
 ## About this code
 
